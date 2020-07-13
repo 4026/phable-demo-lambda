@@ -1,0 +1,8 @@
+{
+    "name": "4026/phable-demo-lambda",
+    "type": "project",
+    "require": {
+        "bref/bref": "^0.5.28",
+        "four026/phable": "dev-master"
+    }
+}
