@@ -1,0 +1,109 @@
+{
+  "origin": [ "#carmack_tweet#" ],
+  "carmack_tweet" : [
+    "#main_phrase#. #sub_phrase.capitalise#.",
+    "#main_phrase#, #sub_phrase#.",
+    "#main_phrase#."
+  ],
+  "main_phrase" : [
+    "A #adjective# #operation# of #thing.s# along with #thing.s# could allow #consequence#",
+    "It is a little surprising that we don't have any #adjective# #thing# #operation# schemes for #thing.s# in #paradigm# today",
+    "#paradigm.capitalise# implemented #adjective# #thing# with 4 #thing.s# from single #thing#, which assumed #thing.s# were #adjective#",
+    "Considering implementing a #adjective# text console with #adjective# #thing# #operation#",
+    "It would be useful to #adverb# #verb# #thing.s# inversely proportional to #quantity#",
+    "Sometimes I wonder if we should have #adjective# #operation# of #thing.s# instead of #adjective# #operation#"
+  ],
+  "sub_phrase" : [
+    "even if it just did #consequence#",
+    "shades of #id_game#",
+    "make #adjective# #thing#",
+    "so not standards compliant",
+    "so you get better #adjective# #thing.s#",
+    "but it would probably suck"
+  ],
+  "adjective" : [
+    "rigid",
+    "static",
+    "third-party",
+    "distributed",
+    "functional",
+    "open-source",
+    "locality based",
+    "single component",
+    "bitmap",
+    "split/wrapping",
+    "box filtered",
+    "tracking",
+    "separate"
+  ],
+  "thing" : [
+    "buffer",
+    "shader",
+    "normal",
+    "texture",
+    "bilerp",
+    "mip level",
+    {"normal": "mesh", "s": "meshes"},
+    {"normal": "body", "s": "bodies"},
+    {"normal": "vertex", "s": "vertices"},
+    "pixel",
+    "camera",
+    "vector",
+    "type"
+  ],
+  "quantity" : [
+    "velocity",
+    "acceleration",
+    "motion",
+    "mass",
+    "energy",
+    "exposure",
+    "light level"
+  ],
+  "adverb" : [
+    "dynamically",
+    "statically",
+    "rigidly",
+    "functionally",
+    "natively"
+  ],
+  "verb" : [
+    "adjust",
+    "compile",
+    "scroll",
+    "generate",
+    "optimize",
+    "compress",
+    "track"
+  ],
+  "operation" : [
+    "scrolling",
+    "compression",
+    "generation",
+    "optimization"
+  ],
+  "paradigm" : [
+    "hardware",
+    "VR",
+    "OOP",
+    "C++",
+    "Lisp",
+    "AI",
+    "Direct3D",
+    "OpenGL",
+    "Savage 3D",
+    "Android"
+  ],
+  "consequence" : [
+    "interesting analysis",
+    "range compression",
+    "native debugging"
+  ],
+  "id_game" : [
+    "Commander Keen",
+    "Wolfenstein 3D",
+    "Quake",
+    "Rage",
+    "Oculus Rift"
+  ]
+}
